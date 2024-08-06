@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 207, 215);
+}
+
+form label{
+    display: block; 
+    font-size: 20px;
+    color: rgb(8, 8, 150);
+    margin: 0 0 5px;
+}
+.formulario{
+    display: block;
+    margin: 00 10px;
+    padding: 5px 5px;
+}
+#paris{
+    display: block;
+    float: left;
+    margin-right: 300px;
+    width: 300px;
+}
+.livro{
+    display: block;
+    margin: 00 10px;
+    padding: 5px 5px;
+
+
+}
